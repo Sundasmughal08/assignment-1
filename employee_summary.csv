@@ -1,0 +1,8 @@
+Emp_ID,Name,Dept_ID,Salary,Dept_Name,salary_category
+101,Alice,1.0,55000.0,HR,Low
+102,Bob,2.0,85000.0,IT,High
+103,Charlie,1.0,62000.0,HR,Medium
+104,David,3.0,95000.0,,High
+105,Eve,,72000.0,,Medium
+106,Frank,2.0,,IT,
+107,Grace,1.0,,HR,
